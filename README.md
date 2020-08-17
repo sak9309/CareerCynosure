@@ -1,2 +1,0 @@
-# CareerCynosure
-Static Website
